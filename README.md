@@ -1,4 +1,4 @@
-# Car-Care
+# Car-Wash
 
 I have built this project using Django Framework. I have Focused more on the backend development.
 Admin Interface:
